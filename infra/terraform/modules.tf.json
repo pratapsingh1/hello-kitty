@@ -11,7 +11,7 @@
       },
       "event_source_arn": null,
       "event_source_mapping": [],
-      "filename": null,
+      "filename": "main.py",
       "function_name": "hello-kitty-function_pratap_908",
       "handler": "main.lambda_handler",
       "log_format": null,
